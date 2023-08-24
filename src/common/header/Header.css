@@ -14,7 +14,7 @@
 }
 
 .search {
-  padding: 20px 0;
+  padding: 10px 0;
 }
 
 .search .logo h1 {
@@ -54,7 +54,9 @@
   width: 20%;
   opacity: 0.5;
   border-left: 2px solid rgba(0, 0, 0, 0.1);
-  padding: 10px;
+  padding-top: 13px;
+  padding-left: 6px;
+  padding-right: 10px;
 }
 
 .cart {
@@ -102,7 +104,7 @@
 }
 
 header {
-  height: 8vh;
+  height: 7vh;
   box-shadow: -1px 15px 17px -8px rgba(0, 0, 0, 0.1);
 }
 

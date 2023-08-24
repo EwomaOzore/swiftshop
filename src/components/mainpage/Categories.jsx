@@ -42,10 +42,6 @@ const Categories = () => {
             cateImg: './images/category/phones.png',
             cateName: "Phones and Tablets",
         },
-        {
-            cateImg: './images/category/computer.png',
-            cateName: "Computers and Laptos",
-        },
     ]
     return (
         <>

@@ -37,3 +37,9 @@
   position: absolute;
   right: 0;
 }
+
+.grid img {
+  margin-top: 10px;
+  border-radius: 10px;
+  box-shadow: #0f3460;
+}

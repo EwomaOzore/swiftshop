@@ -102,8 +102,7 @@ button {
 .category {
   width: 23%;
   box-shadow: rgb(43, 52, 69) 0 4px 16px;
-  height: 510px;
-  padding: 15px 0;
+  height: 450px;
   border-radius: 5px;
   margin-top: 5px;
 }
@@ -148,7 +147,8 @@ button {
 
 .heading .i {
   color: crimson;
-  margin: 10px;
+  margin-left: 10px;
+  cursor: pointer;
 }
 
 .product {
